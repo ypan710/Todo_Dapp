@@ -1,13 +1,17 @@
-# Sample Hardhat Project
+# Decentralized Todo App
+This project is used to manage a todo list by adding and removing tasks.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Installation
+Clone the repository by `git clone https://github.com/ypan710/Todo_Dapp.git`
 
-Try running some of the following tasks:
+## Usage
+1. Open a terminal in Visual Studio Code
+1. cd to Todo_Dapp
+2. cd to client folder
+3. Run `npm start`
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+MIT
